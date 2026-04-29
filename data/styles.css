@@ -70,6 +70,10 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
 .ellipse {
 }
 .button {
@@ -84,11 +88,21 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
 }
 ._连接线 {
+}
+.flow_shape {
 }
 textarea, select, input, button, div, svg { outline: none; }
